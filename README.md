@@ -1,5 +1,5 @@
 # Star Wars Repo
 
-![C:/Codigos/StarWarsRepo/tiefighter.png](TIE Fighter)
+![Tie Fighter](C:/Codigos/StarWarsRepo/tiefighter.png)
 
 This repository serves to pratice Git and Github
